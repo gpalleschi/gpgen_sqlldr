@@ -35,7 +35,7 @@ ORACLE 8 or upper
 
 ## Prerequisites :
 
-Script sql need to do write permission in directory where it is executed.
+Script sql need to have write permission in directory where it is executed.
 
 ----
 
