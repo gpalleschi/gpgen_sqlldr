@@ -4,7 +4,7 @@
 
 ## Description :
 
-The gpgen_sqlldr is an sql script, created under GNU General Public License v3.0 to generate a .dat and .ctl
+The gpgen_sqlldr is an sql script, created under Affero General Public License v3.0 to generate a .dat and .ctl
 files for oracle utility sqlldr. Basically permits to export a table with the possibility to filter data.
 
 Script requiered two parameters :
