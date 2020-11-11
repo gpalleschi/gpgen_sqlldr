@@ -41,4 +41,4 @@ Script sql need to have write permission in directory where it is executed.
 
 ## License :
 
-This project is licensed under the GNU GENERAL PUBLIC LICENSE 3.0 License - see the [LICENSE](LICENSE) file for details  
+This project is licensed under the Affero General Public License v3.0 - see the [LICENSE](LICENSE) file for details  
